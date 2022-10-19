@@ -49,11 +49,11 @@ https://ohtmm.github.io/wanted-pre-onboarding-frontend_cjy/
 ``` 
 2. 프로젝트 패키지 설치
 ```
-      npm install
+ npm install
 ```
 3. 프로젝트 실행
 ```
-      npm start
+ npm start
 ```
 
 ## 주요 라이브러리
