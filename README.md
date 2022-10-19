@@ -10,5 +10,35 @@ https://user-images.githubusercontent.com/108715216/196728340-f97590ef-fd72-4db9
 - 로그인, 회원가입 기능
 - 투두 리스트 추가, 삭제, 수정 기능
 
-배포링크 : https://ohtmm.github.io/wanted-pre-onboarding-frontend_cjy/
+## File tree
+
+      📦src
+       ┣ 📂components
+       ┃ ┣ 📂header
+       ┃ ┃ ┣ 📜header.jsx
+       ┃ ┃ ┗ 📜header.module.css
+       ┃ ┣ 📂login
+       ┃ ┃ ┣ 📜login.jsx
+       ┃ ┃ ┗ 📜login.module.css
+       ┃ ┣ 📂sign_up
+       ┃ ┃ ┣ 📜sign_up.jsx
+       ┃ ┃ ┗ 📜sign_up.module.css
+       ┃ ┣ 📂todo_item
+       ┃ ┃ ┣ 📜todo_item.jsx
+       ┃ ┃ ┗ 📜todo_item.module.css
+       ┃ ┗ 📂todo_list
+       ┃ ┃ ┣ 📜todo_list.jsx
+       ┃ ┃ ┗ 📜todo_list.module.css
+       ┣ 📂routes
+       ┃ ┗ 📜private_route.js
+       ┣ 📂utils
+       ┃ ┗ 📜is_login.js
+       ┣ 📜app.css
+       ┣ 📜app.jsx
+       ┣ 📜index.css
+       ┗ 📜index.js
+
+## Deploy
+https://ohtmm.github.io/wanted-pre-onboarding-frontend_cjy/
+
 
