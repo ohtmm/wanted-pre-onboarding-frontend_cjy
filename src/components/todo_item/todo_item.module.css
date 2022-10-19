@@ -1,0 +1,86 @@
+.todoItem {
+  list-style: none;
+  display: flex;
+  align-items: center;
+  width: 30em;
+  height: 2em;
+  margin: 0 auto;
+  padding: 0.5em;
+  border-bottom: 1px solid #000;
+}
+
+.todoItem > * {
+  margin-left: 1em;
+}
+
+.unchecked {
+  display: block;
+  width: 1em;
+  height: 1em;
+  border-radius: 50%;
+  border: 1px solid #000;
+  cursor: pointer;
+}
+
+.checked {
+  display: block;
+  width: 1em;
+  height: 1em;
+  border-radius: 50%;
+  border: 1px solid #000;
+  cursor: pointer;
+  background-color: #000;
+}
+
+.editBox,
+.unEditBox {
+  display: flex;
+  align-items: center;
+  width: 22em;
+  justify-content: space-between;
+}
+
+.doneItem {
+  font-size: 12px;
+  text-decoration: line-through;
+  padding-right: 2em;
+}
+
+.editInput {
+  width: 14em;
+  padding: 0.5em 0;
+  outline: none;
+  border: none;
+  color: lightseagreen;
+  font-size: 16px;
+  background-color: transparent;
+}
+
+.btnEditNow {
+  border: 1px solid lightseagreen;
+}
+
+button {
+  border: none;
+  outline: none;
+  padding: 0.5em;
+  border-radius: 0.5em;
+}
+
+.btnEdit {
+  margin-left: 0.5em;
+  background-color: lightseagreen;
+  color: white;
+}
+
+.btnEditNow {
+  margin-left: 0.5em;
+  background-color: white;
+  color: lightseagreen;
+}
+
+.btnDel {
+  margin-left: 0.5em;
+  background-color: red;
+  color: white;
+}

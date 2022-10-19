@@ -1,0 +1,55 @@
+.login {
+  width: 50%;
+  height: 36rem;
+  margin: 5em auto;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  background-color: #fff;
+  border-radius: 0.5em;
+}
+
+.tit {
+  margin-bottom: 1em;
+  font-weight: 800;
+}
+
+.label {
+  display: block;
+  text-align: left;
+  padding: 0.5em;
+  font-size: 16px;
+}
+
+.msg {
+  width: 23em;
+  text-align: center;
+  font-size: 12px;
+  color: rgb(248, 47, 47);
+}
+.email,
+.password {
+  display: block;
+  width: 20em;
+  height: 2em;
+  padding-left: 0.5em;
+  margin-bottom: 0.5em;
+}
+
+.active {
+  display: block;
+  width: 5em;
+  margin: 2rem auto;
+  padding: 0.5rem;
+  font-size: 16px;
+  color: #fff;
+  text-decoration: none;
+  border-radius: 0.5rem;
+  background-color: #23e0bc;
+  cursor: pointer;
+}
+
+.inactive {
+  display: none;
+}

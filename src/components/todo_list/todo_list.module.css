@@ -1,0 +1,29 @@
+.container {
+  width: 40em;
+  height: 30em;
+  margin: 5em auto;
+  display: flex;
+  flex-direction: column;
+  overflow-y: scroll;
+  border-radius: 0.5em;
+  background-color: #fff;
+}
+
+.inputBox {
+  margin: 0 auto;
+}
+
+.tit {
+  margin: 1.5em;
+  text-align: center;
+}
+
+.userInput {
+  outline: none;
+  width: 25em;
+  margin: 1em;
+  padding: 0.5em;
+  border-radius: 0.5em;
+  border: 1px solid #000;
+  background-color: rgb(245, 243, 243);
+}
