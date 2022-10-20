@@ -1,4 +1,4 @@
-## Wanted-pre-onboarding-frontend 선발 과제 
+# Wanted-pre-onboarding-frontend 선발 과제 
 
 https://user-images.githubusercontent.com/108715216/196728340-f97590ef-fd72-4db9-a735-33ecde88a6e9.mp4
 
