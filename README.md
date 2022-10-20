@@ -43,15 +43,11 @@ https://ohtmm.github.io/wanted-pre-onboarding-frontend_cjy/
 
 
 ## 프로젝트 실행 방법 
-1. root 경로 .env 파일 생성
-```
- REACT_APP_API_URL=https://pre-onboarding-selection-task.shop
-``` 
-2. 프로젝트 패키지 설치
+1. 프로젝트 패키지 설치
 ```
  npm install
 ```
-3. 프로젝트 실행
+2. 프로젝트 실행
 ```
  npm start
 ```
